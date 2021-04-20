@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+# Theme
+theme = "paperback"
+[params]
+AuthorName = "Espen Berget"
+HomepagePosts = 5
+GithubUsername = "EspenBerget"
+
+
